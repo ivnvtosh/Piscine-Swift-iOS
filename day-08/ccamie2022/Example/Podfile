@@ -1,0 +1,13 @@
+use_frameworks!
+
+#platform :ios, '9.0'
+
+target 'ccamie2022_Example' do
+  pod 'ccamie2022', :path => '../'
+
+  target 'ccamie2022_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

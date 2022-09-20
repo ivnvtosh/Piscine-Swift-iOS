@@ -1,0 +1,12 @@
+platform :ios, '15.4'
+
+target 'Day-07' do
+  use_frameworks!
+
+  pod 'Alamofire', '~> 4.8.2'
+  pod 'ObjectMapper', '~> 3.4.2'
+  pod 'RecastAI', '~> 3.5.0'
+  pod 'ForecastIO', '~> 8.0'
+  pod 'JSQMessagesViewController'
+
+end

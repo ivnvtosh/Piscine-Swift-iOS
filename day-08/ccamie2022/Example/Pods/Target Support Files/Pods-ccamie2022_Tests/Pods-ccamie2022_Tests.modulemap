@@ -1,0 +1,6 @@
+framework module Pods_ccamie2022_Tests {
+  umbrella header "Pods-ccamie2022_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

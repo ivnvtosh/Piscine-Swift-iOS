@@ -1,0 +1,16 @@
+PODS:
+  - ccamie2022 (0.1.0)
+
+DEPENDENCIES:
+  - ccamie2022 (from `../`)
+
+EXTERNAL SOURCES:
+  ccamie2022:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ccamie2022: f84ca16545d4f9e5a0931a9eb02a65eee783d13e
+
+PODFILE CHECKSUM: 03744d62c6a9365fbb3ba70ce8172392a5d75aac
+
+COCOAPODS: 1.11.3

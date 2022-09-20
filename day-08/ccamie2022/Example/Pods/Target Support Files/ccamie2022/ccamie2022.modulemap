@@ -1,0 +1,6 @@
+framework module ccamie2022 {
+  umbrella header "ccamie2022-umbrella.h"
+
+  export *
+  module * { export * }
+}
